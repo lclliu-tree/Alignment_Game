@@ -8,5 +8,3 @@ two_player:
 	Continas output files from two player simulations
 
 N.B. Other data was gathered; however, given space and time limitations, we do not analyse them or include them in the data folders above. 
-
-Thank you for a great semester! - Landon
